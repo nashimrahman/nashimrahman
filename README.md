@@ -130,11 +130,3 @@ IoT & Real-Time Systems
 </p>
 
 ---
-
-<p align="center">
-  <i>「Keep learning. Keep building. Keep shipping.」</i>
-</p>
-
-<p align="center">
-  ⭐ If you find my projects interesting, feel free to explore my repositories!
-</p>
