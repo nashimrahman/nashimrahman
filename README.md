@@ -1,16 +1,165 @@
-## Hi there 👋
+# 👋 Hey, I'm Nashim Rahman
 
-<!--
-**nashimrahman/nashimrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `B.Tech CSE Student` • `Java Developer` • `AI/ML Enthusiast`
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+projects+with+Java+%26+AI;Exploring+AI%2FML+%26+Data+Science;Learning+Full+Stack+Development;Turning+ideas+into+real+projects" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/nashim-rahman">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nashimrahman075@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a **Computer Science & Engineering student** interested in building practical software and exploring the intersection of **software development, AI, and data**.
+
+- 🎓 B.Tech Computer Science & Engineering student
+- ☕ Currently strengthening my **Java & OOP** fundamentals
+- 🤖 Exploring **AI/ML and Data Science**
+- 🌐 Learning **Full Stack Development**
+- 🧠 Interested in building real-world technology solutions
+- 🚀 Always experimenting with new tools, technologies, and projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js" />
+</p>
+
+### Development & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,tailwind,nodejs,postgres" />
+</p>
+
+### AI / Data / Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🌊 PolarSense AI
+
+> **An indigenous, low-cost autonomous ocean observation platform concept for harsh polar and Southern Ocean environments.**
+
+PolarSense AI combines simulated ESP32 telemetry with a real-time monitoring dashboard to visualize oceanographic and atmospheric data.
+
+**Tech Stack**
+
+`ESP32` `MQTT` `HiveMQ Cloud` `Node.js` `PostgreSQL` `JavaScript` `Vercel` `Render`
+
+### Architecture
+
+```text
+ESP32 / Velxio Simulation
+          ↓
+     MQTT / HiveMQ
+          ↓
+     Node.js Backend
+          ↓
+      PostgreSQL
+          ↓
+   Real-Time Dashboard
+```
+
+<p align="center">
+  <a href="https://github.com/nashimrahman/polarsense-ai">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://polarsense.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+Java & OOP
+   ↓
+Data Structures & Algorithms
+   ↓
+Full Stack Development
+   ↓
+AI / Machine Learning
+   ↓
+Data Science
+```
+
+I'm currently focusing on improving my programming fundamentals while gradually moving toward **full-stack development and AI/ML**.
+
+---
+
+## 🏆 Certifications & Learning
+
+- 🧠 IBM — Artificial Intelligence Fundamentals
+- ☕ Java Development / Programming
+- 🤖 AI & Data Science — IIT Roorkee
+- 🎓 Google for Education Assessment
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nashimrahman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashimrahman&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nashimrahman&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💡 What I'm Interested In
+
+```text
+Artificial Intelligence
+Machine Learning
+Data Science
+Java Development
+Full Stack Development
+Software Engineering
+IoT & Real-Time Systems
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nashim-rahman">
+    <img src="https://img.shields.io/badge/LinkedIn-Nashim%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nashimrahman075@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-nashimrahman075%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>「Keep learning. Keep building. Keep shipping.」</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, feel free to explore my repositories!
+</p>
