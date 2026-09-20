@@ -71,53 +71,6 @@ ESP32 / Velxio Simulation
 
 ---
 
-## 📚 Currently Learning
-
-```text
-Java 
-   ↓
-Data Structures & Algorithms
-   ↓
-SpringBoot 
-```
-
-I'm currently focusing on improving my programming fundamentals while gradually moving toward **full-stack development and AI/ML**.
-
----
-
-## 🏆 Certifications & Learning
-
-- 🧠 IBM — Artificial Intelligence Fundamentals
-- ☕ Java Development / Programming
-- 🤖 AI & Data Science — IIT Roorkee
-- 🎓 Google for Education Assessment
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nashimrahman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashimrahman&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nashimrahman&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 💡 What I'm Interested In
-
-```text
-Java full stack Development
-Data Science
-Software Engineering
-IoT & Real-Time Systems
-```
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
