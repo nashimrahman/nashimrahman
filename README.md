@@ -64,7 +64,7 @@ ESP32 / Velxio Simulation
   <a href="https://github.com/nashimrahman/polarsense-ai">
     <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://polarsense.vercel.app/">
+  <a href="https://polarsense-ai.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
