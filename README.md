@@ -1,6 +1,6 @@
 # Hey, I'm Nashim Rahman
 
-### `B.Tech CSE Student` • `Java Developer` • `AI/ML Enthusiast`
+### `B.Tech CSE Student` • `Learning Java Development` • `DSA`
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+projects+with+Java+%26+AI;Exploring+AI%2FML+%26+Data+Science;Learning+Full+Stack+Development;Turning+ideas+into+real+projects" alt="Typing SVG" />
