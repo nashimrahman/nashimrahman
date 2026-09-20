@@ -24,7 +24,7 @@ I'm a **Computer Science & Engineering student** interested in building practica
 - 🎓 B.Tech Computer Science & Engineering student
 - ☕ Currently strengthening my **Java & OOP** fundamentals
 - 🤖 Exploring **AI/ML and Data Science**
-- 🌐 Learning **Full Stack Development**
+- 🌐 Learning **Java Development**
 - 🧠 Interested in building real-world technology solutions
 - 🚀 Always experimenting with new tools, technologies, and projects
 
