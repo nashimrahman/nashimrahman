@@ -1,32 +1,14 @@
-# Hey, I'm Nashim Rahman
-
-### `B.Tech CSE Student` • `Learning Java Development` • `DSA`
-
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+projects+with+Java+%26+AI;Exploring+AI%2FML+%26+Data+Science;Learning+Full+Stack+Development;Turning+ideas+into+real+projects" alt="Typing SVG" />
-</p> -->
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nashim-rahman">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nashimrahman075@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 🚀 About Me
 
 I'm a **Computer Science & Engineering student** interested in building practical software and exploring the intersection of **software development, AI, and data**.
 
 - 🎓 B.Tech Computer Science & Engineering student
-- ☕ Currently strengthening my **Java & OOP** fundamentals
-- 🤖 Exploring **AI/ML and Data Science**
-- 🌐 Learning **Java Development**
-- 🧠 Interested in building real-world technology solutions
-- 🚀 Always experimenting with new tools, technologies, and projects
+-  Currently strengthening my **Java & OOP** fundamentals
+-  Learning **Java Development**
+-  Exploring **AI/ML and Data Science**
+-  Interested in building real-world technology solutions
+-  Always experimenting with new tools, technologies, and projects
 
 ---
 
@@ -92,15 +74,11 @@ ESP32 / Velxio Simulation
 ## 📚 Currently Learning
 
 ```text
-Java & OOP
+Java 
    ↓
 Data Structures & Algorithms
    ↓
-Full Stack Development
-   ↓
-AI / Machine Learning
-   ↓
-Data Science
+SpringBoot 
 ```
 
 I'm currently focusing on improving my programming fundamentals while gradually moving toward **full-stack development and AI/ML**.
@@ -132,11 +110,8 @@ I'm currently focusing on improving my programming fundamentals while gradually 
 ## 💡 What I'm Interested In
 
 ```text
-Artificial Intelligence
-Machine Learning
+Java full stack Development
 Data Science
-Java Development
-Full Stack Development
 Software Engineering
 IoT & Real-Time Systems
 ```
