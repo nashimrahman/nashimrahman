@@ -1,9 +1,6 @@
-
-<p>
-  <img src="" />
+<p align="center">
+  <img src="./profile-visit.jpeg" alt="Oh you came to visit my profile!" width="100%">
 </p>
-
-
 ---
 
 ## 🛠️ Tech Stack
