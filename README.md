@@ -14,11 +14,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,tailwind,nodejs,postgres" />
 </p>
-
-### AI / Data / Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn" />
-</p>
-
----
