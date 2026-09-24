@@ -1,14 +1,8 @@
 
-## 🚀 About Me
+<p>
+  <img src="" />
+</p>
 
-I'm a **Computer Science & Engineering student** interested in building practical software and exploring the intersection of **software development, AI, and data**.
-
-- 🎓 B.Tech Computer Science & Engineering student
--  Currently strengthening my **Java & OOP** fundamentals
--  Learning **Java Development**
--  Exploring **AI/ML and Data Science**
--  Interested in building real-world technology solutions
--  Always experimenting with new tools, technologies, and projects
 
 ---
 
@@ -30,56 +24,6 @@ I'm a **Computer Science & Engineering student** interested in building practica
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,sklearn" />
-</p>
-
----
-
-## 🚀 Featured Project
-
-### 🌊 PolarSense AI
-
-> **An indigenous, low-cost autonomous ocean observation platform concept for harsh polar and Southern Ocean environments.**
-
-PolarSense AI combines simulated ESP32 telemetry with a real-time monitoring dashboard to visualize oceanographic and atmospheric data.
-
-**Tech Stack**
-
-`ESP32` `MQTT` `HiveMQ Cloud` `Node.js` `PostgreSQL` `JavaScript` `Vercel` `Render`
-
-### Architecture
-
-```text
-ESP32 / Velxio Simulation
-          ↓
-     MQTT / HiveMQ
-          ↓
-     Node.js Backend
-          ↓
-      PostgreSQL
-          ↓
-   Real-Time Dashboard
-```
-
-<p align="center">
-  <a href="https://github.com/nashimrahman/polarsense-ai">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://polarsense-ai.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nashim-rahman">
-    <img src="https://img.shields.io/badge/LinkedIn-Nashim%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nashimrahman075@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-nashimrahman075%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
